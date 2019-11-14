@@ -5,7 +5,7 @@
 
 3,to produce the results, please follow our article, the hyperparams uses our default set, note that it can be changed in params.py.
 
-4,for joint NLU, please save two models, one for best F1(slot) on dev, another one for best acc(intent) on dev. 
+4,for joint NLU, please save and use two models, one for best F1(slot) on dev, another one for best acc(intent) on dev. 
 
 5,other small features are implemented too, please refer to this code and check.
 
