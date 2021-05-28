@@ -1,5 +1,5 @@
 # e2e-masked-graphcrf
-1,some code is from https://github.com/sz128/slot_filling_and_intent_detection_of_SLU/, and thanks to them
+1,most code is from https://github.com/sz128/slot_filling_and_intent_detection_of_SLU/, and thanks to them
 
 2,we implement the e2e masked graph-based CRF module in slot-tagger.py, and the class name is 'graphCRFmodel', note that it is easy and transferable
 
