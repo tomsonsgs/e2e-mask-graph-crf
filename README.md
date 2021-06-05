@@ -10,4 +10,6 @@
 5,other small features are implemented too, please refer to this code and check.
 
 6,you can obtain data from https://github.com/sz128/slot_filling_and_intent_detection_of_SLU/
+
+7,use finetune_on_pregenerated.py to pretrain lm first for our really used BERT parameters (use all train-sets of all datasets)
  
